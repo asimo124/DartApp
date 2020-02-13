@@ -1,0 +1,8 @@
+name: First Dart App
+description: A Dart command line application
+
+environment:
+  sdk: '>=2.4.0 <3.0.0'
+
+dependencies:
+ http: ^0.12.0
